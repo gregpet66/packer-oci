@@ -1,10 +1,10 @@
     { 
-      "my.user_ocid":"ocid1.compartment.oc1..aaaaaaaasfjdy7v46gwt72j7feigcqdc4b2l77q7zpklky3lcow27q6dbvpa",
+      "my.user_ocid":"xxxa",
       "my.tenancy_ocid": "pasteYourTenancyOCID",
       "my.fingerprint":"pasteYourFingprint",
       "my.availability_domain": "pasteYourAvailbilityDomain",
       "my.region": "us-ashburn-1",
-      "my.compartment_ocid": "pasteYourCompartmentOCID",
+      "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaasfjdy7v46gwt72j7feigcqdc4b2l77q7zpklky3lcow27q6dbvpa",
       "my.subnet_ocid": "sub12181631360.packerbuild.oraclevcn.com",
       "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaarsu56scul4muz3sqbptvykipy2rn6re3wzdjvncgcpgqt5cp3wja"
     }
